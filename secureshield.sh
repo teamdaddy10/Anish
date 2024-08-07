@@ -1,7 +1,4 @@
 #!/bin/bash
-# secureshield.sh - Advanced security script for Pterodactyl panel and nodes
-# Function to display the banner with gradient effect
-display_banner() 
 
 # Function to display the menu
 display_menu() {
